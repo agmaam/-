@@ -1,0 +1,5 @@
+{
+  "name": "ملك النقل - Heavy Transport",
+  "description": "منصة لطلب الشاحنات، الدينات، والسطحات (نظام شبيه بكريم وأوبر للمعدات الثقيلة)",
+  "requestFramePermissions": ["geolocation"]
+}
